@@ -39,3 +39,5 @@
 .contact-status{width:min(380px,calc(100vw - 48px));min-height:min(472px,calc(100vh - 210px));justify-self:center}
 
 .contact-status{display:flex;flex-direction:column}.contact-status .contact-channels{flex:1;grid-template-rows:repeat(4,minmax(0,1fr))}.contact-status .contact-channels a{min-height:0}
+
+.terminal-strip .system-status{margin-left:auto}
