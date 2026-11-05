@@ -20,6 +20,7 @@
 .work-product-card .work-card-copy{padding:19px 25px 21px}
 .work-product-card .work-card-copy h2{margin-top:8px;font-size:clamp(24px,2.2vw,30px)}
 .work-product-card .work-card-copy>p{margin-top:9px;font-size:11px;line-height:1.55}
+.work-product-card .work-card-copy>p{white-space:pre-line}
 .work-access-note{align-self:flex-start;margin-top:9px;padding:5px 9px;border:1px solid #cbdcf4;border-radius:999px;background:#f2f7ff;color:var(--blue);font-size:9px;font-weight:650;letter-spacing:.03em}
 .work-carousel-nav{position:absolute;z-index:60;top:48%;display:grid;width:42px;height:42px;place-items:center;padding:0;border:1px solid rgba(207,216,224,.8);border-radius:50%;background:rgba(255,255,255,.8);color:#637181;font:300 30px/1 var(--sans);box-shadow:0 8px 22px rgba(40,55,70,.08);cursor:pointer;transform:translateY(-50%);transition:color .2s ease,transform .2s ease,opacity .2s ease}
 .work-carousel-nav:not(:disabled):hover{color:var(--blue);transform:translateY(-50%) scale(1.06)}
